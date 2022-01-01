@@ -1,0 +1,97 @@
+.line{
+    background: #F38181;
+    width: 60px;
+    height: 4px;
+    text-align: center;
+    margin-left: 922px;
+    margin-top: 36px;    
+}
+
+.menu-link{
+    text-transform: uppercase;
+}
+
+.subtitle{
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+.title{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.team-text{
+    text-align: center;
+    color: #B6B6B6;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 45px;
+}
+
+.team-list{
+    display: flex;
+    justify-content: center;
+}
+
+.team-item{
+    list-style-type: none;
+    margin-right:30px;
+}
+
+.team-img{
+    width: 380px;
+    height: 470px;
+}
+
+.team-item:last-child{
+    margin-right: 0;
+}
+
+.team-name{
+    text-align: center;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.team-position{
+    text-align: center;
+    font-family: Roboto;
+    font-style: italic;
+    color: #B6B6B6;
+    margin-top: 11px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.menu-item{
+    list-style-type: none;
+}
+
+.menu-link{
+    text-decoration:none ;
+    color: #95E1D3;
+    font-family: Montserrat;
+    font-size: 14px;
+    margin-right: 55px;
+}
+
+.menu{
+    display: flex;
+    justify-content: right;
+}
+
+.redB{
+    color: #F38181;
+    border-bottom: #F38181 solid 3px;
+    padding-top: 20px;
+}
+
+
+.logo{
+    margin-left: 50px;
+}
